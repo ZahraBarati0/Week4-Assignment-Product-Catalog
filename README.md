@@ -44,6 +44,7 @@ This project demonstrates nested routes, dynamic routing, filtering, sorting, an
 ---
 
 ## 📂 Project Structure
+```
 src/
 │
 ├── components/
@@ -61,7 +62,7 @@ src/
 │
 ├── App.jsx
 └── main.jsx
-
+```
 
 ---
 
